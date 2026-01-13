@@ -1,2 +1,4 @@
 # test_my_first_project
 test repository
+
+これは私の最初のリポジトリです！僕の研究で用いられている図もこちらに格納しています
