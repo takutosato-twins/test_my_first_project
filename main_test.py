@@ -3,7 +3,6 @@ GitHubとCursor連携のテスト用コード
 このファイルはGitHubへのコミット・プッシュの練習用です
 """
 
-# テキスト
 def greet(name: str) -> str:
     """
     挨拶メッセージを返す関数
@@ -16,7 +15,6 @@ def greet(name: str) -> str:
     """
     return f"こんにちは、{name}さん！GitHubとCursorの連携テスト中です。"
 
-# 数値
 def add_numbers(a: int, b: int) -> int:
     """
     2つの数値を足し算する関数
