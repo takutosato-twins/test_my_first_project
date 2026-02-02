@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataVersion Value="302">
+  <PartsImageInfo>
+    <MachineInfo Serial="Y37771" />
+    <AssyInfo BoardName="BL3_A_CPU2" BoardSide="0" />
+    <BoardInfo BoardID="20251118175042" />
+    <PartsInfo BlockNo="1" RefNo="82" RefName="U11" PartsName="BD5229FVE-TR" DisplayName="ブリッジ" SaveDate="20251118175035" />
+    <NgInfo>
+      <Ng No="0" PartialType="1" PinNo="1" InspectType="12" ChkSts="40" NgCode="30" NgReason="ブリッジ" />
+    </NgInfo>
+    <ImageInfo PlanePrmZ="-188000.000" />
+  </PartsImageInfo>
+</DataVersion>

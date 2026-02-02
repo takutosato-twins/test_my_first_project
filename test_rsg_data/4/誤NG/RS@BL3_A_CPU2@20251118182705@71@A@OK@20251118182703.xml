@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataVersion Value="330">
+  <Machine Serial="Y37771" LineName="LINE1" Name="Y37771" ViewX="48.960" ViewY="36.864" Lane="0" />
+  <Board Count="71" ID="20251118182705" Time="2025/11/18 18:27:03">
+    <Info No="283" Name="BL3_A_CPU2" Side="A" Length="320.000" Width="91.700" Thickness="1.600" BlockNum="1" Path="\\Iprodb\host20201224" />
+    <Image Type="3" CropX1="0" CropY1="1833" CropX2="6399" CropY2="0" File="BoardImage@BL3_A_CPU2.jpg" />
+    <Spc Use="1" Path="\\IPRODB\Host\SPC4\BL3_A_CPU2@20251118174820\Y37771" File="SPC@BL3_A_CPU2@20251118182705@71@20251118182703.csv" />
+    <Summary Path="\\IPRODB\Host\SPC4\summary" />
+    <Library Root="\\IPRODB\Host\PartsLibrary_20160616\PartsLib" />
+    <ImageCollection Mode="0" OkCollectionMAX="500" NgCollectionMAX="-1" AutoDeleteMode="0" />
+    <InspParts Num="409" />
+    <NGImage Folder="RS@BL3_A_CPU2@20251118182705@71@A@NG@20251118182703Image" />
+    <Option>
+      <QAOption Use="0" BoardName="" />
+      <Mobile Use="0" />
+      <NgMap Use="0" UpGood="0" Good="0" NG="1" NonWork="1" MapType="0" />
+      <Trace Cooperate="" InspPair="" />
+      <BadmarkTransfer File="" />
+      <Tok274 AutoBatchJudge="0" />
+      <Tok305 Line="" Machine="" />
+      <Tok307 UDate="2025/11/18 18:27:03" MchID="" PCode="" RcpNum="" BGA1="" BGA2="" BGA3="" />
+      <ProcessCheck Use="0" />
+      <Tok315 InspBlk="0" BadBlk="0" />
+      <Tok350 />
+      <Tok374 />
+      <Tok380 />
+      <Tok382 />
+      <Tok390 />
+      <Tok391 />
+      <Tok408 />
+      <Tok411 />
+      <Tok433 />
+    </Option>
+    <Fiducial No="1">
+      <FidPos X="5.992" Y="11.993" DetectX="5.972" DetectY="12.086" />
+    </Fiducial>
+    <Fiducial No="2">
+      <FidPos X="314.000" Y="80.002" DetectX="313.905" DetectY="80.256" />
+    </Fiducial>
+    <Fiducial No="3">
+      <FidPos X="0.000" Y="0.000" DetectX="0.000" DetectY="0.000" />
+    </Fiducial>
+    <Judge>
+      <Insp OperatorID="" OperatorName="_ADMINISTRATOR" Result="1" NGCount="3" NGParts="3" Time="2025/11/18 18:27:29" />
+      <First OperatorID="000000000" OperatorName="temp" Result="0" NGCount="0" NGParts="0" StartTime="2025/11/18 18:29:56" FinishTime="2025/11/18 18:29:59" />
+      <Second OperatorID="" OperatorName="" Result="2" NGCount="0" NGParts="0" StartTime="2025/11/18 18:27:03" FinishTime="2025/11/18 18:27:03" />
+    </Judge>
+  </Board>
+  <Block No="1" ID="">
+    <Parts RefNo="D29" Object="0" Name="DZ2J056M0L" Comment="DIODE2512T0.8" LibName="1-CHIP-D(S)" LibParts="DZ2J056M0L" X="286.744" Y="76.703" Angle="0.000" SizeX="1.950" SizeY="3.700" RefDataNo="9" PartsNo="87" RefAngle="270.000" RefX="286.815" RefY="76.464" NgImageSave="1">
+      <PartsImage ImageNameU="" ImageNameM="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@M.jpg" ImageNameL="" ImageNameH="" ImageNameCI="" Parts3dName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@3D.jxr" OptSlant="15" OptSlantName045="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@S045.jpg" OptSlantName135="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@S135.jpg" OptSlantName225="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@S225.jpg" OptSlantName315="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@S315.jpg" />
+      <ImageRect CenterX="286.729" CenterY="76.723" SizeX="4.118" SizeY="2.366" OrgCenterX="286.725" OrgCenterY="76.703" />
+      <Step No="11" ViewNo="1" Status="33" NGReason="ボディ浮き" NGCode="9" PinNo="0" ResultType="0" SubType="0" PartialType="0" PinIndex="0" InspectType="9" LclBadNo="0">
+        <CropPos X1="976" Y1="1145" X2="1588" Y2="1553" />
+        <Area X1="240" Y1="114" X2="374" Y2="285" />
+        <ImgCenter X="1283" Y="1344" />
+        <Tok322InspPos PosX="-0.060" PosY="0.022" SizeX="1.700" SizeY="1.250" Angle="0.000" />
+        <Param>
+          <Pos X="286.744" Y="76.703" Angle="0.000" SizeX="1.250" SizeY="1.700" />
+          <Median Size="5" />
+          <Ball Diameter="0.000" />
+          <XRay LaminoSet="0" NgImageTypeX="0" Side="0" CapPosOffX="9.305" CapPosOffY="-2.316" HightCorrect="0.000" SampHeight="0.000" XrayContUse="0" XrayContHigh="2.000" XrayContLow="0.000" XraySubtractModelLibStepNo="-1" XraySubtractOwnLibStepNo="-1" />
+          <Height LiftLimit="0.830" HighLimit="2.900" LowLimit="0.830" />
+          <Thresh Low1="70" Up1="255" Low2="0" Up2="0" Low3="0" Up3="0" />
+        </Param>
+        <Detect No="1">
+          <CurPos X="0.000" Y="0.000" SizeX="0.000" SizeY="0.000" />
+        </Detect>
+        <Measure OffsetX="0.000" OffsetY="0.000" OffsetR="0.000" Value="33" Comment="" />
+        <Result First="0" FirstNGReason="ボディ浮き" FirstJudgeAction="1" Second="2" SecondNGReason="ボディ浮き" />
+        <StepImage Type="3" NGName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@M.jpg" InspName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@9@I@1.jxr" />
+        <LibImage Sub="" />
+        <Tok380Step Name="" Max="" Min="" Value="" Unit="" />
+      </Step>
+    </Parts>
+    <Parts RefNo="D12" Object="0" Name="1SS362(TE85LF)" Comment="TR3-1515R2" LibName="1-MTR" LibParts="1SS362" X="109.590" Y="30.907" Angle="0.000" SizeX="2.099" SizeY="2.300" RefDataNo="327" PartsNo="79" RefAngle="270.000" RefX="109.634" RefY="30.760" NgImageSave="1">
+      <PartsImage ImageNameU="" ImageNameM="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@M.jpg" ImageNameL="" ImageNameH="" ImageNameCI="" Parts3dName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@3D.jxr" OptSlant="15" OptSlantName045="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@S045.jpg" OptSlantName135="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@S135.jpg" OptSlantName225="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@S225.jpg" OptSlantName315="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@S315.jpg" />
+      <ImageRect CenterX="109.590" CenterY="30.905" SizeX="2.721" SizeY="2.525" OrgCenterX="109.591" OrgCenterY="30.908" />
+      <Step No="9" ViewNo="17" Status="35" NGReason="リード浮き" NGCode="9" PinNo="1" ResultType="0" SubType="0" PartialType="1" PinIndex="0" OwnDir="3" InspectType="24" LclBadNo="0">
+        <CropPos X1="1068" Y1="1027" X2="1680" Y2="1435" />
+        <Area X1="285" Y1="139" X2="332" Y2="181" />
+        <ImgCenter X="1376" Y="1187" />
+        <Tok322InspPos PosX="-0.548" PosY="0.031" SizeX="0.120" SizeY="0.180" Angle="0.000" />
+        <Param>
+          <Pos X="109.601" Y="31.556" Angle="0.000" SizeX="0.180" SizeY="0.119" />
+          <Median Size="0" />
+          <Ball Diameter="0.000" />
+          <XRay LaminoSet="0" NgImageTypeX="0" Side="0" CapPosOffX="8.810" CapPosOffY="-3.744" HightCorrect="0.000" SampHeight="0.000" XrayContUse="0" XrayContHigh="2.000" XrayContLow="0.000" XraySubtractModelLibStepNo="-1" XraySubtractOwnLibStepNo="-1" />
+          <Height LiftLimit="0.220" HighLimit="3.000" LowLimit="0.220" />
+          <Thresh Low1="0" Up1="255" Low2="0" Up2="0" Low3="0" Up3="0" />
+        </Param>
+        <Detect No="1">
+          <CurPos X="0.000" Y="0.000" SizeX="0.000" SizeY="0.000" />
+        </Detect>
+        <Measure OffsetX="0.000" OffsetY="0.000" OffsetR="0.000" Value="43" Comment="" />
+        <Result First="0" FirstNGReason="リード浮き" FirstJudgeAction="1" Second="2" SecondNGReason="リード浮き" />
+        <StepImage Type="3" NGName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@M.jpg" InspName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@327@I@2.jxr" />
+        <LibImage Sub="" />
+        <Tok380Step Name="" Max="" Min="" Value="" Unit="" />
+      </Step>
+    </Parts>
+    <Parts RefNo="D11" Object="0" Name="1SS362(TE85LF)" Comment="TR3-1515R2" LibName="1-MTR" LibParts="1SS362" X="109.589" Y="34.717" Angle="0.000" SizeX="2.100" SizeY="2.300" RefDataNo="328" PartsNo="79" RefAngle="270.000" RefX="109.634" RefY="34.570" NgImageSave="1">
+      <PartsImage ImageNameU="" ImageNameM="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@M.jpg" ImageNameL="" ImageNameH="" ImageNameCI="" Parts3dName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@3D.jxr" OptSlant="15" OptSlantName045="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@S045.jpg" OptSlantName135="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@S135.jpg" OptSlantName225="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@S225.jpg" OptSlantName315="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@S315.jpg" />
+      <ImageRect CenterX="109.590" CenterY="34.717" SizeX="2.721" SizeY="2.525" OrgCenterX="109.589" OrgCenterY="34.717" />
+      <Step No="9" ViewNo="17" Status="35" NGReason="リード浮き" NGCode="9" PinNo="1" ResultType="0" SubType="0" PartialType="1" PinIndex="0" OwnDir="3" InspectType="24" LclBadNo="0">
+        <CropPos X1="1068" Y1="717" X2="1680" Y2="1125" />
+        <Area X1="280" Y1="138" X2="327" Y2="180" />
+        <ImgCenter X="1371" Y="876" />
+        <Tok322InspPos PosX="-0.547" PosY="-0.031" SizeX="0.120" SizeY="0.180" Angle="0.000" />
+        <Param>
+          <Pos X="109.599" Y="35.367" Angle="0.000" SizeX="0.180" SizeY="0.121" />
+          <Median Size="0" />
+          <Ball Diameter="0.000" />
+          <XRay LaminoSet="0" NgImageTypeX="0" Side="0" CapPosOffX="8.810" CapPosOffY="-7.554" HightCorrect="0.000" SampHeight="0.000" XrayContUse="0" XrayContHigh="2.000" XrayContLow="0.000" XraySubtractModelLibStepNo="-1" XraySubtractOwnLibStepNo="-1" />
+          <Height LiftLimit="0.220" HighLimit="3.000" LowLimit="0.220" />
+          <Thresh Low1="0" Up1="255" Low2="0" Up2="0" Low3="0" Up3="0" />
+        </Param>
+        <Detect No="1">
+          <CurPos X="0.000" Y="0.000" SizeX="0.000" SizeY="0.000" />
+        </Detect>
+        <Measure OffsetX="0.000" OffsetY="0.000" OffsetR="0.000" Value="59" Comment="" />
+        <Result First="0" FirstNGReason="リード浮き" FirstJudgeAction="1" Second="2" SecondNGReason="リード浮き" />
+        <StepImage Type="3" NGName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@M.jpg" InspName="RS@BL3_A_CPU2@20251118182705@71@A@20251118182703@P@328@I@3.jxr" />
+        <LibImage Sub="" />
+        <Tok380Step Name="" Max="" Min="" Value="" Unit="" />
+      </Step>
+    </Parts>
+  </Block>
+</DataVersion>

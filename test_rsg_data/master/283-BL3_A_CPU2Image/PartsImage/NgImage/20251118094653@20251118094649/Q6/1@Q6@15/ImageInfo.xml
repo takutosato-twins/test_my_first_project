@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataVersion Value="302">
+  <PartsImageInfo>
+    <MachineInfo Serial="Y37771" />
+    <AssyInfo BoardName="BL3_A_CPU2" BoardSide="0" />
+    <BoardInfo BoardID="20251118094653" />
+    <PartsInfo BlockNo="1" RefNo="15" RefName="Q6" PartsName="2SC4617EBTLR" DisplayName="ブリッジ" SaveDate="20251118094649" />
+    <NgInfo>
+      <Ng No="0" PartialType="1" PinNo="2" InspectType="12" ChkSts="40" NgCode="30" />
+      <Ng No="1" PartialType="1" PinNo="2" InspectType="24" ChkSts="35" NgCode="9" />
+      <Ng No="2" PartialType="1" PinNo="3" InspectType="24" ChkSts="35" NgCode="9" />
+    </NgInfo>
+    <ImageInfo PlanePrmZ="-10000.000" />
+  </PartsImageInfo>
+</DataVersion>

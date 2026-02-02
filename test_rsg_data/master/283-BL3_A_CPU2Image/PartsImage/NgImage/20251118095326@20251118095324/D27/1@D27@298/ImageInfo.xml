@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataVersion Value="302">
+  <PartsImageInfo>
+    <MachineInfo Serial="Y37771" />
+    <AssyInfo BoardName="BL3_A_CPU2" BoardSide="0" />
+    <BoardInfo BoardID="20251118095326" />
+    <PartsInfo BlockNo="1" RefNo="298" RefName="D27" PartsName="RB521S30T1G" DisplayName="極性違い" SaveDate="20251118095324" />
+    <NgInfo>
+      <Ng No="0" PartialType="0" PinNo="0" InspectType="7" ChkSts="39" NgCode="49" />
+    </NgInfo>
+    <ImageInfo PlanePrmZ="-64000.000" />
+  </PartsImageInfo>
+</DataVersion>
