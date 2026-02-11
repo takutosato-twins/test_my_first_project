@@ -1,5 +1,5 @@
 """
-GitHubとCursor連携のテスト用コード
+GitHubとVSCode連携のテスト用コード
 このファイルはGitHubへのコミット・プッシュの練習用です
 """
 
